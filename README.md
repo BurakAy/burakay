@@ -1,3 +1,14 @@
+### :hammer_and_wrench: Languages and Tools :
+<img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" height="40px" width="40px">&nbsp;
+<img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height="40px" width="40px">&nbsp;
+<img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height="40px" width="40px">&nbsp;
+<img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" height="40px" width="40px">&nbsp;
+<img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height="40px" width="40px">&nbsp;
+<img alt="node" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" height="40px" width="40px">&nbsp;
+<img alt="express" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" height="40px" width="40px">&nbsp;
+<img alt="webpack" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" height="40px" width="40px">&nbsp;
+<img alt="yarn" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" height="40px" width="40px">&nbsp;
+
 ### [![BurakAy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakay&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ### [![BurakAy's weekly WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=burakay)](https://github.com/anuraghazra/github-readme-stats)
 
