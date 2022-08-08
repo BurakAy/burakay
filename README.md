@@ -17,8 +17,7 @@
 
 ---
 
-### :fire: My Stats :
-### [![BurakAy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakay&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Weekly Stats :
 ### [![BurakAy's weekly WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=burakay)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
