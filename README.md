@@ -12,6 +12,7 @@
 <img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="40px" width="40px">&nbsp;
 <img alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="40px" width="40px">&nbsp;
 <img alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" height="40px" width="40px">&nbsp;
+<img alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" height="40px" width="40px">&nbsp;
 
 ---
 
