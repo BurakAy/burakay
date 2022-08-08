@@ -1,5 +1,5 @@
 ### ![BurakAy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakay&count_private=true&show_icons=true)
-### [![BurakAy's weekly WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=burakay)](https://github.com/anuraghazra/github-readme-stats)
+### ![BurakAy's weekly WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=burakay)
 
 <!--
 **BurakAy/burakay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
