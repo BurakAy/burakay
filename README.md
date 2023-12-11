@@ -1,4 +1,4 @@
-### :hammer_and_wrench: Languages, Tools, and Platforms :
+### 🛠️ Languages, Tools, and Platforms :
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" height="40px" width="40px">&nbsp;
 <img alt="java" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" height="40px" width="40px">&nbsp;
 <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" height="40px" width="40px">&nbsp;
