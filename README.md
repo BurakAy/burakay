@@ -19,8 +19,8 @@
 <img alt="intellij" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/intellij/intellij-original.svg" height="40px" width="40px">&nbsp;
 <img alt="figma" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" height="40px" width="40px">&nbsp;
 <img alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" height="40px" width="40px">&nbsp;
-<!-- <img alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" height="40px" width="40px">&nbsp; -->
 <img alt="shopify" src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-shopping-bag-full-color-66166b2e55d67988b56b4bd28b63c271e2b9713358cb723070a92bde17ad7d63.svg" height="40px" width="40px">&nbsp;
+<!-- <img alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" height="40px" width="40px">&nbsp; -->
 
 
 <!--
