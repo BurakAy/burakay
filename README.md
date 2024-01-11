@@ -13,7 +13,6 @@
 <img alt="yarn" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" height="40px" width="40px">&nbsp;
 <img alt="node" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" height="40px" width="40px">&nbsp;
 <img alt="tailwind css" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="40px" width="40px">&nbsp;
-<img alt="liquid" src="https://camo.githubusercontent.com/1f8587b1a318821f8861f95538f02bff0f3943710679bfeebd9d0184793c9d0c/68747470733a2f2f6c69717569646a732e636f6d2f69636f6e2f6d7374696c652d333130783331302e706e67" height="40px" width="40px">&nbsp;
 
 <img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="40px" width="40px">&nbsp;
 <img alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="40px" width="40px">&nbsp;
