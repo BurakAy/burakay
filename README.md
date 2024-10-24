@@ -18,6 +18,8 @@
 <img alt="shopify" src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-shopping-bag-full-color-66166b2e55d67988b56b4bd28b63c271e2b9713358cb723070a92bde17ad7d63.svg" height="40px" width="40px">&nbsp;
 
 <img alt="node" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" height="40px" width="40px">&nbsp;
+<img alt="node" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg" height="40px" width="40px">&nbsp;
+
 <!-- <img alt="webpack" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" height="40px" width="40px">&nbsp; -->
 <!-- <img alt="yarn" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" height="40px" width="40px">&nbsp; -->
 <!-- <img alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" height="40px" width="40px">&nbsp; -->
